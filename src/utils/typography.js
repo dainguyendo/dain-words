@@ -1,17 +1,28 @@
 import Typography from "typography"
-import Wordpress2016 from "typography-theme-wordpress-2016"
 
-Wordpress2016.overrideThemeStyles = () => {
-  return {
-    "a.gatsby-resp-image-link": {
-      boxShadow: `none`,
+const customTypography = {
+  baseFontSize: '16px',
+  baseLineHeight: 1.75,
+  scaleRatio: 5 / 2,
+  googleFonts: [
+    {
+      name: 'Ubuntu',
+      styles: ['700']
     },
-  }
+    {
+      name: 'Vollkorn',
+      styles: ['400', '400i', '700', '700i', '900', '900i']
+    }
+  ],
+  headerFontFamily: ['Vollkorn', 'Georgia', 'serif'],
+  bodyFontFamily: ['Vollkorn', 'Georgia', 'serif'],
+  bodyColor: 'hsla(0,0%,0%,0.9)',
+  headerWeight: 900,
+  bodyWeight: 400,
+  boldWeight: 700,
 }
 
-delete Wordpress2016.googleFonts
-
-const typography = new Typography(Wordpress2016)
+const typography = new Typography(customTypography)
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== `production`) {
