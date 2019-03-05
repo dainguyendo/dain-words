@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `dai.n thoughts`,
+    title: `oblivion`,
     author: `Dai Nguyendo`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
