@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "dain-words",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Dai's blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Dai Nguyendo <dainguyendo@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
