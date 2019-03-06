@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `oblivion`,
     author: `Dai Nguyendo`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Words from Dai`,
+    siteUrl: `https://dainwords.io`,
     social: {
       twitter: `dainguyendo`,
       github: `dainguyendo`,
@@ -53,20 +53,20 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-135642342-1`,
       },
     },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Words from Dai`,
+        short_name: `oblivion`,
         start_url: `/`,
-        background_color: `#0F111A`,
-        theme_color: `#663399`,
+        background_color: `#292D3E`,
+        theme_color: `#f07178`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/icon.png`,
       },
     },
     `gatsby-plugin-offline`,

@@ -6,7 +6,7 @@ const customTypography = {
   scaleRatio: 5 / 2,
   googleFonts: [
     {
-      name: 'Ubuntu',
+      name: 'Roboto Mono',
       styles: ['700']
     },
     {

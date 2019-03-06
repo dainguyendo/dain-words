@@ -37,9 +37,15 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>
-              Personal thoughts by {author}.
-            </p>
+            <div
+              style={{
+                display: `flex`,
+                flexDirection: 'column'
+              }}
+            >
+              <span>The state of being unaware or unconscious of what is happening.</span>
+              <span>Words from {author}</span>
+            </div>
           </div>
         )
       }}
@@ -49,7 +55,7 @@ function Bio() {
 
 const bioQuery = graphql`
   query BioQuery {
-    avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/profile-pic.png/" }) {
       childImageSharp {
         fixed(width: 50, height: 50) {
           ...GatsbyImageSharpFixed

@@ -16,14 +16,14 @@ const Footer = () => {
               rel="noopener noreferrer"
             >
               github
-            </a> &#8259;&nbsp;
+            </a> &bull;&nbsp;
             <a
               href={`https://instagram.com/${instagram}`}
               target="_blank"
               rel="noopener noreferrer"
             >
               photos
-            </a> &#8259;&nbsp;
+            </a> &bull;&nbsp;
             <a
               href={`https://linkedin.com/in/${linkedin}`}
               target="_blank"

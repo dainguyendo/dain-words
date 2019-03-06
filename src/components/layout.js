@@ -1,3 +1,4 @@
+import './layout.css';
 import React from "react"
 import { Link } from "gatsby"
 import Footer from './footer';
@@ -16,7 +17,7 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
-            fontFamily: `Unica One, sans-serif`,
+            fontFamily: `Roboto Mono`,
           }}
         >
           <Link
@@ -36,6 +37,7 @@ class Layout extends React.Component {
         <h3
           style={{
             marginTop: 0,
+            fontFamily: `Roboto Mono`,
           }}
         >
           <Link
