@@ -10,7 +10,7 @@ My breaking philosophy for the longest has revolved around the **discovery and d
 
 Albeit cheesy for a break mantra, the phrase has been a tool I find myself coming back to while seeking creavity. Intentionally vague, the phrase leaves an open ended verse to be applied in any way I see fit to my dance. Interpretations are endless - some versions live and mutate, others are premature and later revisited.
 
-Implementations of the mantra has lead to versions that has helped clarify my dance in the long term, in an instance, down to a single movement. The more I reflect on this, the more I see the effects.
+Implementations of the mantra has lead to versions of my craft in the long term, in an instance, down to a single movement. The more I reflect on this, the more I see the effects.
 
 Seeking intreptation of the mantra is analogous to a **journey down a river**. Starting from the source, river streams begin to branch off from one another creating what resembles a tree diagram. The choices made along the way shapes a unique interpretation of the experience of the river.
 
