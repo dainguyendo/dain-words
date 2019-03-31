@@ -50,6 +50,7 @@
   },
   "scripts": {
     "build": "gatsby build",
+    "deploy": "npx now",
     "develop": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "now-build": "npm run build",
