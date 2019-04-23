@@ -10,7 +10,7 @@ These days, I feel this message is often misconstrued.
 
 Day by day we grow more interconnected. And yet, in concert, these misterpreted messages has strayed further away - creating alienation. An invisible wall placed perfectly in between people.
 
-Social media has shaped channels for free flowing information. These channels operate without pause and at a monstrous scale. The attraction lies its access and its reach. The playing field is seemingly leveled where the common currency is _followers_, _views_, and _likes_.
+Social media has shaped channels for free flowing information. These channels operate without pause and at a monstrous scale. The attraction lies within its access and reach. The playing field is seemingly leveled where the common currency is _followers_, _views_, and _likes_.
 
 
 ### We all need to make a living, right?
